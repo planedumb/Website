@@ -1,0 +1,1533 @@
+#SlashDiv{
+float:left;
+color: blue;
+   font-size: 30px; 
+   font-weight: 50;
+}
+#TitleDiv{
+    padding-left: 30px;
+    padding: 5px;
+    padding-top: 8px;
+    padding-left: 30px;
+}
+#TitleText{
+    margin-left: 20px;
+    font-size: 50px;
+    color: orangered;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Subtitle{
+margin-top: -15px;
+padding-left: 56px;
+font-weight: 100;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#Inscreva{
+    margin-left: 55px;
+    border-radius: 30px;
+    width: 200px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    transition: height .2s, width .2s;
+}
+#Inscreva:hover{
+    height: 65px;
+    width: 205px;
+    border: none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+}
+#WhatsappButton{
+height: 55px;
+width: 55px;
+border-radius: 90%;
+}
+#WhatsappImage{
+height: 55px;
+border-radius: 90%;
+margin-left: -8px;
+margin-top: -3px;
+}
+#buttonImage{
+    display: inline;
+    padding-left: 20px;
+}
+#title{
+float: left;
+
+}
+.container{
+border: rgb(1, 1, 128) solid 2px;
+border-radius: 20px;
+margin-top: 40px;
+width: 700px;
+height: 435px;
+overflow: hidden;
+margin-left: 97px;
+margin-left:700px ;
+}
+.bolimg{
+background:url("Images/confrence.jpg");
+background-size: cover;
+width: 100%;
+height: 100%;
+transition: transform .2s;
+}
+
+.bolimg:hover{
+background:url("Images/confrence.jpg");
+background-size: cover;
+transform: scale(1.1);
+z-index: "-1";
+}
+#attatchLogo{
+float: left;
+width: 1500px;
+}
+#logo{
+    height: 250px;
+    padding-top: 50px;
+    display: inline;
+    margin-left: -280px;
+    margin-top: -50px;
+    position: absolute;
+    z-index: "3";
+}
+#arrow{
+    position: absolute;
+    top:550px;
+    left: 200px;
+    margin-left: 50px ;
+    height: 60px;
+}
+.Title2{
+font-size: 50px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#leftArrow2{
+
+position: relative;
+left: -120px;
+bottom:-450px ;
+}
+.subtitle3{
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 500;
+}
+#scroller{
+
+height: 600px;
+width: 1500px;
+overflow-x: scroll;
+;
+margin-bottom: 50px;
+float: left;
+}
+#leftArrow1{
+
+float: left;
+position: relative;
+top: 350px;
+left: -130px;
+}
+.box1{
+height: 530px;
+background: rgb(248, 239, 190);
+width: 500px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+position: relative;
+margin: 15px;
+}
+#a1circle1{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a1circle2{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a1circle3{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line1{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box2{
+height: 530px;
+background: rgb(245, 182, 182);
+width: 500px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+margin: 15px;
+position: relative;
+
+
+}
+#a2circle1{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a2circle2{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a2circle3{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line2{
+
+background: rgb(241, 85, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box3{
+height: 530px;
+background: rgb(253, 221, 178);
+width: 500px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+position: relative;
+margin-top: -545px;
+margin-left: 1080px;
+}
+#a3circle1{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a3circle2{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a3circle3{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line3{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box4{
+height: 250px;
+background: rgb(163, 183, 224);
+width: 500px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+position: relative;
+margin-top: -545px;
+margin-left: 1605px;
+}
+#a4circle1{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a4circle2{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a4circle3{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line4{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box5{
+height: 250px;
+background: rgb(163, 183, 224);
+width: 500px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+position:relative;
+margin-top: -275px;
+margin-left: 1605px;
+   
+}
+#a5circle1{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a5circle2{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a5circle3{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line5{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.carreira{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+position: relative;
+bottom: -60px;
+left: 45px;
+font-size: larger;
+
+}
+.tinyTitle{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 700;
+position: relative;
+bottom: -20px;
+left: 45px;
+font-size: 35px;
+
+
+}
+.subHeadingTinyTitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-left: 45px;
+    margin-top: 20px;
+    font-weight: 500;
+
+}
+.paragraphTinyTitle{
+    margin-top: -10px;
+    margin-left: 40px;
+    font-size: 25px;
+
+}
+.ParaAtraves{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    float: left;
+}
+#Inscreva2{
+    margin-left: 55px;
+    border-radius: 30px;
+    margin-top:0px;
+    width: 200px;
+   
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    position:relative;
+    bottom:-30px;
+    float: left;
+    transition: height .2s, width .2s;
+    
+
+}
+#Inscreva2:hover{
+    height: 65px;
+    width:205px;
+  background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+        float: left;
+        border:none;
+
+}
+#Quero{
+    margin-left: 55px;
+    border-radius: 30px;
+    margin-top:0px;
+    width: 200px;
+   
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(1, 1, 128);
+    background: rgb(255, 255, 255);
+    float: left;
+    position:relative;
+    bottom:-30px;
+    transition: border .2s;
+    transition: height .2s, width .2s;
+
+}
+#Quero:hover{
+ height: 65px;
+    width:205px;
+    border:none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+
+
+}
+.greyBackground{
+    background: rgb(179, 178, 245);
+    height: 750px; 
+    
+    position:relative;
+    
+}
+.titleAulas{
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    color: rgb(51, 51, 83);
+    
+}
+#circleBox1{
+
+    background: rgb(250, 238, 170);
+    border:dashed 5px rgb(255, 174, 0);
+    position: relative;
+    left: 320px;
+    top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    z-index: 0;
+
+}
+#computerIconBox1{
+
+    height: 80px;
+    position: relative;
+    left: 360px;
+    top: -95px;
+    z-index: 1;
+
+}
+.letters{
+
+    margin-top:   -250px   ;
+
+}
+#computerIconBox1{
+height: 100px;
+position: relative;
+top: -110px;
+left: 350px;
+
+}
+#circleBox2{
+background: rgb(250, 238, 170);
+    border:dashed 5px rgb(255, 174, 0);
+    position: relative;
+    left: 320px;
+    top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    z-index: 0;
+
+}
+#computerIconBox2{
+
+    height: 100px;
+    position: relative;
+    top: -110px;
+    left: 350px;
+
+}
+.image{
+
+    height: 100px;
+}
+.para{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+font-size: 20px;
+}
+#icon1{
+text-align: center;
+position: relative;
+left: -400px;
+}
+#icon2{
+    text-align: center;
+position: relative;
+top: -190px;
+}
+#icon3{
+    text-align: center;
+position: relative;
+left: 400px;
+top: -390px;
+
+}
+#icon4{
+    text-align: center;
+position: relative;
+top: -290px;
+left: -600px;
+}
+#icon5{
+    text-align: center;
+position: relative;
+top: -515px;
+left: -200px;
+}
+#icon6{
+    text-align: center;
+position: relative;
+top: -740px;
+left: 200px;
+}
+#icon7{
+    text-align: center;
+position: relative;
+top: -965px;
+left: 600px;
+}
+#moveUp4{
+
+position: relative;
+top: -630px;
+
+}
+#rightArrow2{
+
+position: relative;
+left: 1500px;
+top: -500px;
+
+
+}
+#stuff{
+
+    padding-right: 100px;
+background: rgb(253, 253, 253);
+padding-left: 100px;
+height: 6440px;
+width: 1500px;
+position:absolute;
+top:200px ;
+zoom: 89%;
+overflow:hidden;
+z-index: 3;
+}
+#rightArrow1{
+position: relative;
+left: 1500px;
+top: -490px;
+
+
+
+}
+#index{
+z-index: 2;
+
+background: rgb(255, 255, 255);
+height: 150px;
+position:fixed;
+width: 20000px;
+  box-shadow: 1px 0px 50px rgb(223, 223, 223);
+left: -50px;
+top: 0px;
+
+}
+html, body {
+
+    max-width: 100px;
+    max-height:100px ;
+  padding: auto;
+  
+    
+  
+}
+#ShirtPic{
+
+    height: 450px;
+    align-items: center;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  border-radius:20px;
+  border: 2px rgb(1, 1, 128) solid;
+
+
+}
+.greyTop{
+
+
+    background: rgb(179, 178, 245);
+    height: 240px;
+    width: 1500px;
+
+}
+.titleUma{
+
+color: orangered;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 45px;
+
+}
+.nossosTitle{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 35px;
+font-weight: 400;
+position: relative;
+top: -40px;
+
+}
+#theTalent{
+height: 750px;
+width: 3820px;
+overflow: hide;
+
+}
+#moveUp{
+
+position: relative;
+top: -150px;
+
+}
+#moveUp2{
+
+position:relative;
+top:-300px;
+
+}
+#moveUp3{
+
+position:relative;
+top:-400px;
+
+
+}
+.Person1{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person2{
+    height: 560px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person3{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person4{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person5{
+   height: 480px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person6{
+    height: 400px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person7{
+height: 380px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person8{
+ height: 380px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+#space{
+
+height: 50px;
+width: 50px;
+position: relative;
+left: 3650px;
+
+
+}
+#AtravesSection{
+height: 150px;
+width: 1350px;
+
+}
+#personImage{
+border:rgb(51, 51, 83) 2px solid;
+height: 200px;
+width: 200px;
+display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:-100px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 50px orange;
+
+
+}
+.personDescription{
+
+margin:15px;
+position: relative;
+top: -95px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 400;
+font-size: 20px;
+
+
+}
+.divideLine{
+
+    background: orange;
+    height: 1px;
+    width: 350px;
+    position: relative;
+    top: -90px;
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Name{
+    color: orangered;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+.job{
+color: rgb(5, 18, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    top: -125px;
+}
+.scroller2{
+width: 1490px;
+overflow-x: scroll ;
+}
+.websiteSection{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1000px;
+overflowX: hidden;
+position: relative;
+top: -700px;
+}
+.websiteBottom{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1200px;
+overflow: hidden;
+position: relative;
+top: -3200px;
+}
+.bannerLine1{
+
+background: orangered;
+height: 2px;
+position: relative;
+top: 15px;
+
+
+}
+.bannerLine2{
+background: orangered;
+height: 2px;
+position: relative;
+top: 105px;
+}
+.banner{
+background: rgb(247, 199, 136);
+width: 8500px;
+height: 130px;
+overflow: hidden;
+position: relative;
+left: -50px;
+top: -200px;
+transform: rotate(-5deg);
+}
+.bannerText{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(36, 28, 150);
+font-size: 70px;
+position: relative;
+left:100px ;
+top: -15px;
+}
+.bannerLogo{
+height: 100px;
+position: relative;
+left: 100px;
+top: 10px;
+}
+.purpleFooter{
+background: rgb(1, 1, 128);
+height: 1100px;
+width: 5000px;
+}
+
+.vejaTitle{
+position: relative;
+left:30px;
+color: rgb(1, 1, 128);
+font-size: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 800;
+
+}
+#padding{
+
+    position: relative;
+    left: 50px;
+}
+.website{
+
+float: left;
+height: 200px;
+width: 300px;
+margin: 25px;
+margin
+
+}
+.square1{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-1469px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+#VnWLogo{
+
+height: 130px;
+position: relative;
+left: -230px;
+top:5px;
+
+}
+.span{
+margin-left: 35px;
+font-display: ;
+position: relative;
+top: -50px;
+font-weight:600 ;
+left: 350px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+font-size: 30px;
+
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.span:hover{
+
+
+font-weight: 700;
+
+
+
+}
+.reserve{
+
+margin-left: 55px;
+    border-radius: 30px;
+    width: 250px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    top: 30px;
+    background: rgb(1, 1, 128);
+    float: left;
+    transition: height .2s, width .2s;
+    position: relative;
+    left: 1330px;
+
+}
+.reserve:hover{
+
+height: 65px;
+    width: 255px;
+    border: none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+
+}
+.square1:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square2{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-1669px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square2:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square3{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-1869px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square3:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square4{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-2069px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square4:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square5{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-2020px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square5:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square6{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-2220px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square6:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square7{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-2420px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square7:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square8{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-2620px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square8:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square9{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-2570px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square9:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square10{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-2770px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square10:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square11{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-2970px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square11:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square12{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-3170px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square12:hover{
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.footer1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 140px;
+}
+
+.footer2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 650px;
+}
+.footer3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 890px;
+}
+
+.footer4{
+
+color: white;
+height: 400px;
+position:absolute;
+top: 230px;
+left: 1090px;
+}
+
+.footer5{
+
+color: white;
+height: 70px;
+width: 210px;
+position:absolute;
+top: 700px;
+left: 120px;
+border-radius: 10px;
+
+
+}
+
+.footer52{
+
+position:absolute;
+top: 695px;
+left: 135px;
+background-color: white;
+height: 110px;
+width: 300px;
+border-radius: 10px;
+}
+
+.imgFooter5{
+height: 290px;
+width: 310px;
+position: relative;
+top: -95px;
+left: 11px;
+}
+.imgFooter6{
+height: 110px;
+width:265px;
+position:absolute;
+top: 695px;
+left: 450px;
+border-radius: 10px;
+}
+.icon1{
+height: 70px;
+position:absolute;
+top: 843px;
+left: 140px;
+}
+.icon2{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 225px;
+}
+.icon3{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 309px;
+}
+.icon4{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 390px;
+}
+.icon5{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 470px;
+}
+.icon6{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 550px;
+}
+.icon7{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 635px;
+}
+.footer7{
+position:absolute;
+top: 670px;
+left: 940px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+}
+.socialMedia1{
+position:absolute;
+top: 830px;
+left: 940px;
+}
+.socialMedia2{
+position:absolute;
+top: 830px;
+left: 1005px;
+}
+.socialMedia3{
+position:absolute;
+top: 830px;
+left: 1065px;
+}
+.socialMedia4{
+position:absolute;
+top: 830px;
+left: 1125px;
+}
+.socialMedia5{
+position:absolute;
+top: 830px;
+left: 1185px;
+}
+.footerLine{
+
+background: rgb(94, 92, 190);
+height: 2px;
+width: 1400px;
+
+position: absolute;
+top: 1000px;
+left:50px;
+}
+
+
+.yellowFooter{
+    text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+position: absolute;
+top: 1000px;
+left: 450px;
+color: goldenrod;
+}
+
+
